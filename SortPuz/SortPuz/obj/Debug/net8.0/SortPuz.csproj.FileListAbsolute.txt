@@ -1,0 +1,14 @@
+C:\Users\pavel\source\repos\SortPuz\SortPuz\bin\Debug\net8.0\SortPuz.exe
+C:\Users\pavel\source\repos\SortPuz\SortPuz\bin\Debug\net8.0\SortPuz.deps.json
+C:\Users\pavel\source\repos\SortPuz\SortPuz\bin\Debug\net8.0\SortPuz.runtimeconfig.json
+C:\Users\pavel\source\repos\SortPuz\SortPuz\bin\Debug\net8.0\SortPuz.dll
+C:\Users\pavel\source\repos\SortPuz\SortPuz\bin\Debug\net8.0\SortPuz.pdb
+C:\Users\pavel\source\repos\SortPuz\SortPuz\obj\Debug\net8.0\SortPuz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\source\repos\SortPuz\SortPuz\obj\Debug\net8.0\SortPuz.AssemblyInfoInputs.cache
+C:\Users\pavel\source\repos\SortPuz\SortPuz\obj\Debug\net8.0\SortPuz.AssemblyInfo.cs
+C:\Users\pavel\source\repos\SortPuz\SortPuz\obj\Debug\net8.0\SortPuz.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\SortPuz\SortPuz\obj\Debug\net8.0\SortPuz.dll
+C:\Users\pavel\source\repos\SortPuz\SortPuz\obj\Debug\net8.0\refint\SortPuz.dll
+C:\Users\pavel\source\repos\SortPuz\SortPuz\obj\Debug\net8.0\SortPuz.pdb
+C:\Users\pavel\source\repos\SortPuz\SortPuz\obj\Debug\net8.0\SortPuz.genruntimeconfig.cache
+C:\Users\pavel\source\repos\SortPuz\SortPuz\obj\Debug\net8.0\ref\SortPuz.dll

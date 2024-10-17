@@ -1,0 +1,14 @@
+C:\Users\pavel\source\repos\Vopros3\Vopros3\bin\Debug\net8.0\Vopros3.exe
+C:\Users\pavel\source\repos\Vopros3\Vopros3\bin\Debug\net8.0\Vopros3.deps.json
+C:\Users\pavel\source\repos\Vopros3\Vopros3\bin\Debug\net8.0\Vopros3.runtimeconfig.json
+C:\Users\pavel\source\repos\Vopros3\Vopros3\bin\Debug\net8.0\Vopros3.dll
+C:\Users\pavel\source\repos\Vopros3\Vopros3\bin\Debug\net8.0\Vopros3.pdb
+C:\Users\pavel\source\repos\Vopros3\Vopros3\obj\Debug\net8.0\Vopros3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\source\repos\Vopros3\Vopros3\obj\Debug\net8.0\Vopros3.AssemblyInfoInputs.cache
+C:\Users\pavel\source\repos\Vopros3\Vopros3\obj\Debug\net8.0\Vopros3.AssemblyInfo.cs
+C:\Users\pavel\source\repos\Vopros3\Vopros3\obj\Debug\net8.0\Vopros3.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\Vopros3\Vopros3\obj\Debug\net8.0\Vopros3.dll
+C:\Users\pavel\source\repos\Vopros3\Vopros3\obj\Debug\net8.0\refint\Vopros3.dll
+C:\Users\pavel\source\repos\Vopros3\Vopros3\obj\Debug\net8.0\Vopros3.pdb
+C:\Users\pavel\source\repos\Vopros3\Vopros3\obj\Debug\net8.0\Vopros3.genruntimeconfig.cache
+C:\Users\pavel\source\repos\Vopros3\Vopros3\obj\Debug\net8.0\ref\Vopros3.dll
